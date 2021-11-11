@@ -24,7 +24,8 @@
 		"ms-azuretools.vscode-docker",
 		"golang.go",
 		"ms-azuretools.vscode-bicep",
-		"ms-python.python"
+		"ms-python.python",
+		"ms-azuretools.vscode-tye"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
